@@ -47,3 +47,8 @@ confidential/
 *.PcbDoc
 *.epro
 *.epro2
+
+# Curated personal hardware project files intentionally published
+!hardware/stm32f407-four-layer-board/altium/*.SchDoc
+!hardware/stm32f407-four-layer-board/altium/*.PcbDoc
+!hardware/stm32f407-four-layer-board/docs/*.pdf
