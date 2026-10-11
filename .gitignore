@@ -1,0 +1,49 @@
+# IDE and editor state
+.vscode/
+.idea/
+*.uvguix.*
+*.user
+*.suo
+
+# Embedded build output
+Objects/
+Listings/
+Debug/
+Release/
+build/
+out/
+*.o
+*.d
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.dep
+*.build_log.htm
+
+# Generated and temporary files
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.bak
+*.zip
+.DS_Store
+Thumbs.db
+
+# Personal and confidential material
+resume/
+private/
+confidential/
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.SchDoc
+*.PcbDoc
+*.epro
+*.epro2
